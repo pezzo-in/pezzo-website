@@ -7,5 +7,5 @@
 		<a href="contact.php">Contact Us</a>	
 	</div>
 	<!-- Navigation Trigger Button -->
-	<div id="sm-trigger"><p id="vertical-logo">identity</p></div>
+	<div id="sm-trigger"><p id="vertical-logo">pezzo</p></div>
 </nav>

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>IDENTITY - Ultimate mediafolio - Responsive and Retina Ready HTML5 Template by Designova</title>
+<title>pezzo - Ultimate mediafolio - Responsive and Retina Ready HTML5 Template by Designova</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Identity by Designova - Responsive HTML5 template">
+<meta name="description" content="pezzo by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 

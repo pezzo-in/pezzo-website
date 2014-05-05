@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>IDENTITY - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
+<title>PEZZO - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Identity by Designova - Responsive HTML5 template">
+<meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 
@@ -122,7 +122,7 @@
 
 <div class="pad-common dark-bg">
 		<h3 class="query-heading white-text"><span>Have a project?</span></h3>
-			<a class="btn btn-identity" href="#">Request a Quote</a>
+			<a class="btn btn-PEZZO" href="#">Request a Quote</a>
 		</div>
 					
 				</article>
