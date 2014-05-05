@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>pezzo - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
+	<title>PEZZO - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="pezzo by Designova - Responsive HTML5 template">
+	<meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 	<meta name="author" content="Designova">
 
 	<!-- Standard Favicon--> 
@@ -82,7 +82,7 @@
   					<div class="item home-slide text-center  intro-04-headletters white-bg full-height">
   						<div class="valign">
   							<img  alt="" title="" src="images/badge.png"/>
-  							<h1 class="caps-heading dark-text">pezzo</h1>
+  							<h1 class="caps-heading dark-text">PEZZO</h1>
   							<h3 class="intro-04-sub-heading"><span>studio portfolio</span></h3>
   						</div>
   					</div>

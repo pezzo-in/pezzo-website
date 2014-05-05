@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>PEZZO</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="pezzo by Designova - Responsive HTML5 template">
+<meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 
@@ -60,7 +60,7 @@
 <nav class="menu" id="sm">
 	<?php include 'header.php'; ?>
 	<!-- Navigation Trigger Button -->
-	<div id="sm-trigger"><p id="vertical-logo">pezzo</p></div>
+	<div id="sm-trigger"><p id="vertical-logo">PEZZO</p></div>
 </nav>
 <!-- Sliding Navigation : ends -->
 
@@ -177,7 +177,7 @@
 
 					<div class="about-content-main pad-common high-bg">
 						<h3 class="query-heading white-text"><span>Getting impressed?</span></h3>
-						<a class="btn btn-pezzo" href="#">Visit Our Portfolio</a>
+						<a class="btn btn-PEZZO" href="#">Visit Our Portfolio</a>
 					</div>
 					
 				</article>

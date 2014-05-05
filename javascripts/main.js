@@ -2,7 +2,7 @@
 //--------------------------------------------------------------------------------------------------------------------------------
 //This is main JS file that contains custom JS scipts and initialization used in this template*/
 // -------------------------------------------------------------------------------------------------------------------------------
-// Template Name: IDENTITY.
+// Template Name: PEZZO.
 // Author: Designova.
 // Version 1.0 - Initial Release
 // Website: http://www.designova.net 

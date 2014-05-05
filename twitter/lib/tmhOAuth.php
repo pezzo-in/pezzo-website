@@ -71,7 +71,7 @@ class tmhOAuth {
         // support for proxy servers
         'curl_proxy'                 => false, // really you don't want to use this if you are using streaming
         'curl_proxyuserpwd'          => false, // format username:password for proxy, if required
-        'curl_encoding'              => '',    // leave blank for all supported formats, else use gzip, deflate, identity
+        'curl_encoding'              => '',    // leave blank for all supported formats, else use gzip, deflate, PEZZO
 
         // streaming API
         'is_streaming'               => false,

@@ -2,7 +2,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /*This is main CSS file that contains custom style rules used in this template*/
 /*-------------------------------------------------------------------------------------------------------------------------------*/
-/* Template Name: IDENTITY.*/
+/* Template Name: PEZZO.*/
 /* Version: 1.0 Initial Release*/
 /* Build Date: 01 April 2014*/
 /* Author: Designova.*/
@@ -49,7 +49,7 @@ p{
 }
 
 /*Button and Action Elements*/
-.btn-identity{
+.btn-PEZZO{
 	margin: 10px 0;
 	padding: 15px;
 	border:solid 1px #fff;
@@ -62,7 +62,7 @@ p{
 		 -o-transition: all .8s linear;
 			transition: all .8s linear;
 }
-.btn-identity:hover{
+.btn-PEZZO:hover{
 	border:solid 1px #fff;
 	background:#fff;
 	color: #000;
@@ -72,7 +72,7 @@ p{
 		 -o-transition: all .8s linear;
 			transition: all .8s linear;
 }
-.btn-identity-dark{
+.btn-PEZZO-dark{
 	margin: 10px 0;
 	padding: 15px;
 	border:solid 1px #000;
@@ -85,7 +85,7 @@ p{
 		 -o-transition: all .8s linear;
 			transition: all .8s linear;
 }
-.btn-identity-dark:hover{
+.btn-PEZZO-dark:hover{
 	border:solid 1px #000;
 	background:#000;
 	color: #fff;
@@ -95,7 +95,7 @@ p{
 		 -o-transition: all .8s linear;
 			transition: all .8s linear;
 }
-.btn-identity-color{
+.btn-PEZZO-color{
 	margin: 10px 0;
 	padding: 15px;
 	text-decoration: none;
@@ -106,7 +106,7 @@ p{
 		 -o-transition: all .8s linear;
 			transition: all .8s linear;
 }
-.btn-identity-dark:hover{
+.btn-PEZZO-dark:hover{
 	-webkit-transition: all .8s linear;
 	   -moz-transition: all .8s linear;
 		-ms-transition: all .8s linear;

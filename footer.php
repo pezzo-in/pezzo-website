@@ -6,7 +6,7 @@
   				<section class="container">
   					<div class="row">
   						<article class="col-md-4 text-left">
-  							<a class="handle" href="index.php">@pezzo</a>
+  							<a class="handle" href="index.php">@PEZZO</a>
   						</article>
   						<article class="col-md-8 text-right">
   							<ul class="foot-social">
@@ -28,11 +28,11 @@
   				<section class="container">
   					<div class="row">
   						<article class="col-md-4 text-left">
-  							<p>Proudly created by Pezzo.in</p>
+  							<p>Proudly created by PEZZO.in</p>
   						</article>
   						<article class="col-md-8 text-right">
   							
-  							<p>Copyright &copy; 2014 pezzo.</p>
+  							<p>Copyright &copy; 2014 PEZZO.</p>
   						</article>
   					</div>
   				</section>

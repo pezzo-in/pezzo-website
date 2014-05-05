@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>pezzo - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
+<title>PEZZO - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="pezzo by Designova - Responsive HTML5 template">
+<meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 
@@ -90,7 +90,7 @@
 <section class="testimonial-wrap pad-common high-bg">
 	<div class="add-bottom-half"><img alt="" title="" class="contact-icon" src="images/rounded-icons/white/06.png"/></div>
 	<a class="email-text white-text">info@domain.tld</a>
-	<p class="address-text white-text">pezzo LLC, North Avenue, London, UK</p>				
+	<p class="address-text white-text">PEZZO LLC, North Avenue, London, UK</p>				
 	<ul class="credentials text-left">
 		<li><a href="#"><img src="images/icons/mail.png" alt="presence" title="presence"><span class="credential-text">hello@domain.inc</span></a></li>
 		<li><a href="#"><img src="images/icons/phone.png" alt="presence" title="presence"><span class="credential-text">+123.456.789.0</span></a></li>
@@ -126,7 +126,7 @@
 								 <article>
 									<textarea placeholder="Your Message" name="message" cols="40" rows="3" id="msg"></textarea>
 									<div class="btn-wrap">
-										<button class="btn btn-pezzo-color" id="submit" name="submit" type="submit">Send Message</button>
+										<button class="btn btn-PEZZO-color" id="submit" name="submit" type="submit">Send Message</button>
 									</div>
 								</article>
 						 </form>
