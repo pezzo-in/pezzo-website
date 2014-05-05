@@ -57,11 +57,9 @@
 
 
 <!-- Sliding Navigation : starts -->
-<nav class="menu" id="sm">
+
 	<?php include 'header.php'; ?>
-	<!-- Navigation Trigger Button -->
-	<div id="sm-trigger"><p id="vertical-logo">PEZZO</p></div>
-</nav>
+	
 <!-- Sliding Navigation : ends -->
 
 
