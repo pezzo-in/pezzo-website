@@ -81,9 +81,10 @@
   					<!-- thumb-carousel-item : starts -->
   					<div class="item home-slide text-center  intro-04-headletters white-bg full-height">
   						<div class="valign">
-  							<img  alt="" title="" src="images/badge.png"/>
-  							<h1 class="caps-heading dark-text">PEZZO</h1>
-  							<h3 class="intro-04-sub-heading"><span>studio portfolio</span></h3>
+  							<!-- <img  alt="" title="" src="images/badge.png"/>-->
+                	
+  							<h3 class="intro-04-sub-heading">
+                <img  alt="" title="" src="images/logo-text.png"/>
   						</div>
   					</div>
   					<!-- thumb-carousel-item : ends -->
@@ -104,12 +105,14 @@
   					<!-- thumb-carousel-item : starts -->
   					<div class="item home-slide text-center home-slide-02 full-height">
   						<div class="valign">
-  							<a class="image-lightbox-link color-alt" data-gall="carousel-gallery" href="images/intro/full/02.jpg">
+  							<!-- <a class="image-lightbox-link color-alt" data-gall="carousel-gallery" href="images/intro/full/02.jpg">
   								<img alt="" title="" src="images/zoom.png"/>
   							</a>
   							<h3 class="intro-04-sub-heading-title">
   								<span class="white-bg dark-text">project title</span>
-  							</h3>
+  							</h3> -->
+                <?php include 'social-feed.php'; ?>
+
   						</div>
   					</div>
   					<!-- thumb-carousel-item : ends -->
