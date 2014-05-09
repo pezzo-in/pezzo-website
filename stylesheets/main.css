@@ -273,7 +273,11 @@ p {
     transition: all .8s linear;
     overflow-y: auto;
 }
-
+.home-slide-02 .valign{
+	top:0px;
+	transform:none;
+	bottom: 0px;
+}
 /*ABOUT*/
 .about-bg {
     background: url('../images/parallax/01.jpg') center center no-repeat;
