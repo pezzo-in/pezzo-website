@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>PEZZO - Ultimate mediafolio - Responsive and Retina Ready HTML5 Template by Designova</title>
+<title>PEZZO</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 
-<link rel="shortcut icon" href="images/favicon/favicon.ico">
+<link rel="shortcut icon" href="images/favicon/favicon.png">
 
 <!-- Standard iPhone Touch Icon--> 
 <link rel="apple-touch-icon" sizes="57x57" href="images/touchicons/apple-touch-icon-57-precomposed" />

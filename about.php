@@ -8,7 +8,7 @@
 <meta name="author" content="Designova">
 
 <!-- Standard Favicon--> 
-<link rel="shortcut icon" href="images/favicon/favicon.ico">
+<link rel="shortcut icon" href="images/favicon/favicon.png">
 
 <!-- Standard iPhone Touch Icon--> 
 <link rel="apple-touch-icon" sizes="57x57" href="images/touchicons/apple-touch-icon-57-precomposed" />

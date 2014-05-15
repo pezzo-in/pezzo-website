@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>PEZZO - Unique Portfolio for Agencies, Creatives and Photographers - Responsive and Retina Ready HTML5 Template by Designova</title>
+<title>PEZZO</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="PEZZO by Designova - Responsive HTML5 template">
 <meta name="author" content="Designova">
-
+<script src="bootstrap/js/jquery.js" type="text/javascript"></script>
+<script src="javascripts/resizepage_services.js" type="text/javascript"></script>
 <!-- Standard Favicon--> 
-<link rel="shortcut icon" href="images/favicon/favicon.ico">
+<link rel="shortcut icon" href="images/favicon/favicon.png">
 
 <!-- Standard iPhone Touch Icon--> 
 <link rel="apple-touch-icon" sizes="57x57" href="images/touchicons/apple-touch-icon-57-precomposed" />
@@ -78,50 +79,11 @@
 					<div class="welcome pad-common border-top-main">
 						<h1 class="main-heading">Our Nice Services</h1>
 						<span class="liner-medium"></span>
-						<h3 class="sub-heading dark-text"><span>an awesome portfolio template for every creative people</span></h3>
+						<h3 class="sub-heading dark-text"><span>an awesome portfolio template for every creative people</span>
 					</div>
 
-
-<!-- testimonial-wrap : starts -->
-<section class="testimonial-wrap pad-common">
-
-        	<!-- testimonial-carousel : starts -->
-        	<div id="testimonial-carousel" class="testimonial-carousel owl-carousel">
-          
-	          <div class="item">
-	          	<div class="testimonial-block">
-	          		<img alt="" title="" src="images/team/01.jpg"/>
-	          		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum.</p>
-	          		<h5><span>John Doe</span></h5>
-	          	</div>
-	          </div>
-
-	         <div class="item">
-	          	<div class="testimonial-block">
-	          		<img alt="" title="" src="images/team/02.jpg"/>
-	          		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum.</p>
-	          		<h5><span>Elena Zinpovic</span></h5>
-	          	</div>
-	          </div>
-
-	         <div class="item">
-	          	<div class="testimonial-block">
-	          		<img alt="" title="" src="images/team/03.jpg"/>
-	          		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod interdum.</p>
-	          		<h5><span>Karel M Freeman</span></h5>
-	          	</div>
-	          </div>
-
-
-        	</div>
-        	<!-- testimonial-carousel-wrap : ends -->
-
-
-</section>
-<!-- testimonial-wrap : ends -->
-
 <div class="pad-common dark-bg">
-		<h3 class="query-heading white-text"><span>Have a project?</span></h3>
+		<h3 class="query-heading white-text"><span>Have a project?</span>
 			<a class="btn btn-PEZZO" href="#">Request a Quote</a>
 		</div>
 					
@@ -129,41 +91,100 @@
 				<article class="col-md-4 text-left">
 					<div class="services-item pad-common grey-bg border-top-dark">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/dark/01.png"/>
-						<h2 class="inner-heading dark-text">Branding</h2>
+						<h2 class="inner-heading dark-text">Marketing Consultation</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+                        
+                        <ul class="submenu">
+                        	<li>Market research</li>
+                        	<li>Market identification</li>
+                        	<li>Market Penetration</li>
+                        	<li>Strategies</li>
+                        	<li>Effective Content writing</li>
+                        	<li>Both online and offline platforms.</li>
+                        </ul>	
+                      	
 					</div>
 					<div class="services-item pad-common  dark-bg">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/white/02.png"/>
-						<h2 class="inner-heading white-text">Web Design</h2>
+						<h2 class="inner-heading white-text">Web Designing</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+						 <ul class="submenu">
+                        	<li>E-commerce</li>
+                        	<li>SEO/SMM</li>
+                        	<li>UI/UX</li>
+                        </ul>	
 					</div>
 					<div class="services-item pad-common grey-bg">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/dark/03.png"/>
-						<h2 class="inner-heading dark-text">CMS Integration</h2>
+						<h2 class="inner-heading dark-text">Motion Design</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit imperdiet massa non tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+						 <ul class="submenu">
+                        	<li>Info graphics</li>
+                        	<li>Ad films</li>
+                        	<li>Presentations</li>
+                        	<li>Product demos</li>
+                        	<li>2D/3D animation</li>
+                        	<li>Show reels</li>
+                        </ul>	
 					</div>
 				</article>
 				<article class="col-md-4 text-left">
 					<div class="services-item pad-common dark-bg border-top-grey">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/white/04.png"/>
-						<h2 class="inner-heading white-text">Logo Design</h2>
+						<h2 class="inner-heading white-text">Graphic Design</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+						 <ul class="submenu">
+                        	<li>Illustrations</li>
+                        	<li>Magazine design</li>
+                        	<li>Scalable graphics</li>
+                        	<li>Pre-production</li>
+                        	<li>Pre-press</li>
+                        	<li>packaging</li>
+                        </ul>	
 					</div>
 					<div class="services-item pad-common  grey-bg">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/dark/05.png"/>
-						<h2 class="inner-heading dark-text">Print &amp; Flyer</h2>
+						<h2 class="inner-heading dark-text">Branding</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+						 <ul class="submenu">
+                        	<li>Logo design</li>
+                        	<li>Brand kit</li>
+                        	<li>Poster design</li>
+                        	<li>Event branding</li>
+                        	<li>Package design</li>
+                        </ul>	
 					</div>
 					<div class="services-item  pad-common dark-bg">
 						<img alt="" title="" class="service-icon" src="images/rounded-icons/white/06.png"/>
-						<h2 class="inner-heading white-text">Content Writing</h2>
+						<h2 class="inner-heading white-text">Photography &#38; Cinematography</h2>
 						<span class="liner-small"></span>
 						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit imperdiet massa non tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+						 <ul class="submenu">
+                        	<li>Ad films</li>
+                        	<li>Corporate videos</li>
+                        	<li>Editing</li>
+                        	<li>Pre-production</li>
+                        	<li>Story Board</li>
+                        	<li>Wedding/Events</li>
+                        	<li>Product shots</li>
+                        </ul>	
+					</div>
+					<div class="services-item pad-common grey-bg">
+						<img alt="" title="" class="service-icon" src="images/rounded-icons/dark/03.png"/>
+						<h2 class="inner-heading dark-text">Print Media</h2>
+						<span class="liner-small"></span>
+						<p class="add-top-half">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit imperdiet massa non tincidunt urna. Aenean vel sapien fermentum, rhoncus nibh sed, imperdiet massa non semper erat.</p>
+					 <ul class="submenu">
+                        	<li>orporate gifting</li>
+                        	<li>Merchandizing</li>
+                        	<li>Signage Solutions</li>
+                        	<li>Vehicle Branding</li>
+                        </ul>	
 					</div>
 				</article>
 			</div>
@@ -209,7 +230,5 @@
 <!-- JS Custom Codes --> 
 <script src="javascripts/form-validation.js" ></script> 
 <script src="javascripts/main.js" ></script> 
-
-
 </body>
 </html>
