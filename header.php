@@ -8,5 +8,23 @@
 		<a href="contact.php">Contact Us</a>	
 	</div>
 	<!-- Navigation Trigger Button -->
-	<div id="sm-trigger"><p id="vertical-logo">PEZZO</p></div>
+	<div id="sm-trigger"><i id="indication" class="fa fa-arrow-left"></i><p id="vertical-logo">PEZZO</p></div>
 </nav>
+<script>
+function moveRight(){
+    $("#indication").animate({left: "+=12"}, 1000,moveLeft)
+}
+
+function moveLeft(){
+    $("#indication").animate({left: "-=12"}, 1000,moveRight)
+}
+
+$(document).ready(function() {
+
+   moveRight();
+
+});
+$('#sm-trigger').click(function () {    		
+    $('#indication').hide();
+});
+</script> -->
